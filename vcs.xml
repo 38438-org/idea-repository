@@ -34,6 +34,10 @@
           <option name="url" value="https://github.com/b3838438org/canner.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/b3838438org/relax.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="/Volumes/data/b@38438.org/github.com/b3838438org" />
