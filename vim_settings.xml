@@ -3,10 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1556086397949">
+      <file name="/Dummy.txt" timestamp="1556769080930">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Volumes/data/vagrant/packer-esxi-novnc/README.md" timestamp="1556087793912" />
       <file name="/Dummy.vm" timestamp="1555776380279">
         <mark key="[" line="0" column="0" />
       </file>
