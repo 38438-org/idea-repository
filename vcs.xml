@@ -23,8 +23,12 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/b-38438-org/studio.git" />
+          <option name="url" value="https://github.com/b3838438org/aws-config-template.git" />
           <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="b-38438-org" />
         </UrlAndUserName>
       </list>
     </option>
