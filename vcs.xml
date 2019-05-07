@@ -38,6 +38,10 @@
           <option name="url" value="https://github.com/b-38438-org/k3os.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:b3838438org/rancher-gitlab-deploy.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="/Volumes/data/github.com/b-38438-org" />
