@@ -46,6 +46,14 @@
           <option name="url" value="https://github.com/JohnstonJ/ubuntu-secure-boot.gitv" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:b3838438org/canner-firebase-cms.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:b3838438org/rio.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="/Volumes/data/github.com/b-38438-org" />
