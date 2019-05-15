@@ -3,11 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1557760505306">
+      <file name="/Dummy.txt" timestamp="1557795343249">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Volumes/data/vagrant/terraform/terraform/Vagrantfile" timestamp="1557658336280">
-        <mark key="[" line="69" column="78" />
       </file>
       <file name="/Dummy.vm" timestamp="1555776380279">
         <mark key="[" line="0" column="0" />
